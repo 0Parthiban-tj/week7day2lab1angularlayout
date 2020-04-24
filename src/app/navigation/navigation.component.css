@@ -1,0 +1,9 @@
+.head{
+    padding:20px;
+ 
+     display: flex;
+     list-style-type: none;
+ }
+ a{
+     padding-right: 20px;
+ }
